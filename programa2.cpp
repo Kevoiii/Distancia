@@ -2,6 +2,10 @@
 using namespace std;
 int main(){
 int x1, x2, y1, y2;
+cout<<"Autor: Kevoiii";
+cout<<endl;
+cout<<"correo: pevk080607hgtrzva1@cbtis217.edu.mx";
+cout<<endl;
 cout<<"x1: ";
 cin>>x1;
 cout<<"y1: ";
