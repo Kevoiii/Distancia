@@ -17,7 +17,7 @@ cin>>y2;
 float distancia= sqrt(pow((x2-x1),2)+pow((y2-y1),2));
 cout<<"la distancia es: "<<distancia;
 cout<<"cambio1";
-
+cout<<"cambio2";
 
 
 
